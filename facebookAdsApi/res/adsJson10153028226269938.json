@@ -1,0 +1,510 @@
+[
+	{
+		"configured_status": "ACTIVE",
+		"name": "content.quadlogix.com/mobile-apps-1/ - Website Clicks",
+		"insights": {
+			"data": [
+				{
+					"date_start": "2016-03-11",
+					"date_stop": "2016-03-24",
+					"actions": [
+						{
+							"action_type": "comment",
+							"value": 2
+						},
+						{
+							"action_type": "like",
+							"value": 1
+						},
+						{
+							"action_type": "link_click",
+							"value": 34
+						},
+						{
+							"action_type": "post_like",
+							"value": 1
+						},
+						{
+							"action_type": "page_engagement",
+							"value": 38
+						},
+						{
+							"action_type": "post_engagement",
+							"value": 37
+						}
+					],
+					"unique_actions": [
+						{
+							"action_type": "comment",
+							"value": 2
+						},
+						{
+							"action_type": "like",
+							"value": 1
+						},
+						{
+							"action_type": "link_click",
+							"value": 29
+						},
+						{
+							"action_type": "post_like",
+							"value": 1
+						},
+						{
+							"action_type": "page_engagement",
+							"value": 33
+						},
+						{
+							"action_type": "post_engagement",
+							"value": 32
+						}
+					],
+					"total_actions": 38,
+					"total_unique_actions": 33,
+					"total_action_value": 0,
+					"impressions": "8797",
+					"social_impressions": 0,
+					"clicks": 58,
+					"social_clicks": 0,
+					"unique_impressions": 6075,
+					"unique_social_impressions": 0,
+					"unique_clicks": 48,
+					"unique_social_clicks": 0,
+					"spend": 4876.62,
+					"frequency": 1.4480658436214,
+					"deeplink_clicks": 0,
+					"app_store_clicks": 0,
+					"website_clicks": 66,
+					"cost_per_inline_post_engagement": 131.80054054054,
+					"inline_link_clicks": 34,
+					"cost_per_inline_link_click": 143.43,
+					"inline_post_engagement": 37,
+					"unique_inline_link_clicks": 29,
+					"cost_per_unique_inline_link_click": 168.15931034483,
+					"inline_link_click_ctr": 0.38649539615778,
+					"unique_inline_link_click_ctr": 0.47736625514403,
+					"call_to_action_clicks": 6,
+					"reach": 6075,
+					"social_reach": 0,
+					"ctr": 0.65931567579857,
+					"unique_ctr": 0.79012345679012,
+					"unique_link_clicks_ctr": 0.47736625514403,
+					"cpc": 84.079655172414,
+					"cpm": 554.35034670911,
+					"cpp": 802.73580246914,
+					"cost_per_total_action": 128.33210526316,
+					"cost_per_action_type": [
+						{
+							"action_type": "comment",
+							"value": 2438.31
+						},
+						{
+							"action_type": "like",
+							"value": 4876.62
+						},
+						{
+							"action_type": "link_click",
+							"value": 143.43
+						},
+						{
+							"action_type": "post_like",
+							"value": 4876.62
+						},
+						{
+							"action_type": "page_engagement",
+							"value": 128.33210526316
+						},
+						{
+							"action_type": "post_engagement",
+							"value": 131.80054054054
+						}
+					],
+					"cost_per_unique_click": 101.59625,
+					"cost_per_unique_action_type": [
+						{
+							"action_type": "comment",
+							"value": 2438.31
+						},
+						{
+							"action_type": "like",
+							"value": 4876.62
+						},
+						{
+							"action_type": "link_click",
+							"value": 168.15931034483
+						},
+						{
+							"action_type": "post_like",
+							"value": 4876.62
+						},
+						{
+							"action_type": "page_engagement",
+							"value": 147.77636363636
+						},
+						{
+							"action_type": "post_engagement",
+							"value": 152.394375
+						}
+					],
+					"relevance_score": {
+						"score": 1,
+						"positive_feedback": "LOW",
+						"negative_feedback": "HIGH",
+						"status": "OK"
+					},
+					"website_ctr": [
+						{
+							"action_type": "link_click",
+							"value": 0.38649539615778
+						}
+					],
+					"estimated_ad_recall_rate": 0,
+					"estimated_ad_recall_rate_lower_bound": 0,
+					"estimated_ad_recall_rate_upper_bound": 0,
+					"cost_per_estimated_ad_recallers": 0,
+					"canvas_avg_view_time": 0,
+					"canvas_avg_view_percent": 0,
+					"ad_id": "6035826253987",
+					"adset_id": "6035826252387",
+					"campaign_id": "6035826251387",
+					"account_id": "1715234668763409"
+				}
+			],
+			"paging": {
+				"cursors": {
+					"before": "MAZDZD",
+					"after": "MAZDZD"
+				}
+			}
+		},
+		"id": "6035826253987"
+	},
+	{
+		"configured_status": "ACTIVE",
+		"name": "Quadlogix - Remakreting",
+		"insights": {
+			"data": [
+				{
+					"date_start": "2016-03-04",
+					"date_stop": "2016-03-24",
+					"actions": [
+						{
+							"action_type": "offsite_conversion.custom.557990814376550",
+							"value": 1
+						},
+						{
+							"action_type": "link_click",
+							"value": 9
+						},
+						{
+							"action_type": "offsite_conversion.fb_pixel_custom",
+							"value": 1
+						},
+						{
+							"action_type": "post_like",
+							"value": 2
+						},
+						{
+							"action_type": "page_engagement",
+							"value": 11
+						},
+						{
+							"action_type": "post_engagement",
+							"value": 11
+						},
+						{
+							"action_type": "offsite_conversion",
+							"value": 1
+						}
+					],
+					"unique_actions": [
+						{
+							"action_type": "link_click",
+							"value": 6
+						},
+						{
+							"action_type": "offsite_conversion.fb_pixel_custom",
+							"value": 1
+						},
+						{
+							"action_type": "post_like",
+							"value": 2
+						},
+						{
+							"action_type": "page_engagement",
+							"value": 8
+						},
+						{
+							"action_type": "post_engagement",
+							"value": 8
+						}
+					],
+					"total_actions": 13,
+					"total_unique_actions": 9,
+					"total_action_value": 0,
+					"impressions": "524",
+					"social_impressions": 0,
+					"clicks": 9,
+					"social_clicks": 0,
+					"unique_impressions": 55,
+					"unique_social_impressions": 0,
+					"unique_clicks": 6,
+					"unique_social_clicks": 0,
+					"spend": 1100.89,
+					"frequency": 9.5272727272727,
+					"deeplink_clicks": 0,
+					"app_store_clicks": 0,
+					"website_clicks": 12,
+					"cost_per_inline_post_engagement": 100.08090909091,
+					"inline_link_clicks": 9,
+					"cost_per_inline_link_click": 122.32111111111,
+					"inline_post_engagement": 11,
+					"unique_inline_link_clicks": 6,
+					"cost_per_unique_inline_link_click": 183.48166666667,
+					"inline_link_click_ctr": 1.7175572519084,
+					"unique_inline_link_click_ctr": 10.909090909091,
+					"call_to_action_clicks": 0,
+					"reach": 55,
+					"social_reach": 0,
+					"ctr": 1.7175572519084,
+					"unique_ctr": 10.909090909091,
+					"unique_link_clicks_ctr": 10.909090909091,
+					"cpc": 122.32111111111,
+					"cpm": 2100.9351145038,
+					"cpp": 20016.181818182,
+					"cost_per_total_action": 84.683846153846,
+					"cost_per_action_type": [
+						{
+							"action_type": "offsite_conversion.custom.557990814376550",
+							"value": 1100.89
+						},
+						{
+							"action_type": "link_click",
+							"value": 122.32111111111
+						},
+						{
+							"action_type": "offsite_conversion.fb_pixel_custom",
+							"value": 1100.89
+						},
+						{
+							"action_type": "post_like",
+							"value": 550.445
+						},
+						{
+							"action_type": "page_engagement",
+							"value": 100.08090909091
+						},
+						{
+							"action_type": "post_engagement",
+							"value": 100.08090909091
+						},
+						{
+							"action_type": "offsite_conversion",
+							"value": 1100.89
+						}
+					],
+					"cost_per_unique_click": 183.48166666667,
+					"cost_per_unique_action_type": [
+						{
+							"action_type": "link_click",
+							"value": 183.48166666667
+						},
+						{
+							"action_type": "offsite_conversion.fb_pixel_custom",
+							"value": 1100.89
+						},
+						{
+							"action_type": "post_like",
+							"value": 550.445
+						},
+						{
+							"action_type": "page_engagement",
+							"value": 137.61125
+						},
+						{
+							"action_type": "post_engagement",
+							"value": 137.61125
+						}
+					],
+					"relevance_score": {
+						"score": 1,
+						"positive_feedback": "MEDIUM",
+						"negative_feedback": "HIGH",
+						"status": "OK"
+					},
+					"website_ctr": [
+						{
+							"action_type": "link_click",
+							"value": 1.7175572519084
+						}
+					],
+					"estimated_ad_recall_rate": 0,
+					"estimated_ad_recall_rate_lower_bound": 0,
+					"estimated_ad_recall_rate_upper_bound": 0,
+					"cost_per_estimated_ad_recallers": 0,
+					"canvas_avg_view_time": 0,
+					"canvas_avg_view_percent": 0,
+					"ad_id": "6035324964787",
+					"adset_id": "6035324959387",
+					"campaign_id": "6035324958387",
+					"account_id": "1715234668763409"
+				}
+			],
+			"paging": {
+				"cursors": {
+					"before": "MAZDZD",
+					"after": "MAZDZD"
+				}
+			}
+		},
+		"id": "6035324964787"
+	},
+	{
+		"configured_status": "ACTIVE",
+		"name": "www.quadlogix.com/ - Website Conversions",
+		"insights": {
+			"data": [
+				{
+					"date_start": "2016-03-04",
+					"date_stop": "2016-03-24",
+					"actions": [
+						{
+							"action_type": "link_click",
+							"value": 85
+						},
+						{
+							"action_type": "post_like",
+							"value": 3
+						},
+						{
+							"action_type": "page_engagement",
+							"value": 88
+						},
+						{
+							"action_type": "post_engagement",
+							"value": 88
+						}
+					],
+					"unique_actions": [
+						{
+							"action_type": "link_click",
+							"value": 68
+						},
+						{
+							"action_type": "post_like",
+							"value": 3
+						},
+						{
+							"action_type": "page_engagement",
+							"value": 71
+						},
+						{
+							"action_type": "post_engagement",
+							"value": 71
+						}
+					],
+					"total_actions": 88,
+					"total_unique_actions": 71,
+					"total_action_value": 0,
+					"impressions": "15918",
+					"social_impressions": 5,
+					"clicks": 104,
+					"social_clicks": 0,
+					"unique_impressions": 5780,
+					"unique_social_impressions": 2,
+					"unique_clicks": 87,
+					"unique_social_clicks": 0,
+					"spend": 11441.96,
+					"frequency": 2.7539792387543,
+					"deeplink_clicks": 0,
+					"app_store_clicks": 0,
+					"website_clicks": 47,
+					"cost_per_inline_post_engagement": 130.02227272727,
+					"inline_link_clicks": 85,
+					"cost_per_inline_link_click": 134.61129411765,
+					"inline_post_engagement": 88,
+					"unique_inline_link_clicks": 68,
+					"cost_per_unique_inline_link_click": 168.26411764706,
+					"inline_link_click_ctr": 0.53398668174394,
+					"unique_inline_link_click_ctr": 1.1764705882353,
+					"call_to_action_clicks": 0,
+					"reach": 5780,
+					"social_reach": 2,
+					"ctr": 0.65334841060435,
+					"unique_ctr": 1.5051903114187,
+					"unique_link_clicks_ctr": 1.1764705882353,
+					"cpc": 110.01884615385,
+					"cpm": 718.8063827114,
+					"cpp": 1979.5778546713,
+					"cost_per_total_action": 130.02227272727,
+					"cost_per_action_type": [
+						{
+							"action_type": "link_click",
+							"value": 134.61129411765
+						},
+						{
+							"action_type": "post_like",
+							"value": 3813.9866666667
+						},
+						{
+							"action_type": "page_engagement",
+							"value": 130.02227272727
+						},
+						{
+							"action_type": "post_engagement",
+							"value": 130.02227272727
+						}
+					],
+					"cost_per_unique_click": 131.5167816092,
+					"cost_per_unique_action_type": [
+						{
+							"action_type": "link_click",
+							"value": 168.26411764706
+						},
+						{
+							"action_type": "post_like",
+							"value": 3813.9866666667
+						},
+						{
+							"action_type": "page_engagement",
+							"value": 161.15436619718
+						},
+						{
+							"action_type": "post_engagement",
+							"value": 161.15436619718
+						}
+					],
+					"relevance_score": {
+						"score": 2,
+						"positive_feedback": "LOW",
+						"negative_feedback": "MEDIUM",
+						"status": "OK"
+					},
+					"website_ctr": [
+						{
+							"action_type": "link_click",
+							"value": 0.53398668174394
+						}
+					],
+					"estimated_ad_recall_rate": 0,
+					"estimated_ad_recall_rate_lower_bound": 0,
+					"estimated_ad_recall_rate_upper_bound": 0,
+					"cost_per_estimated_ad_recallers": 0,
+					"canvas_avg_view_time": 0,
+					"canvas_avg_view_percent": 0,
+					"ad_id": "6035318435387",
+					"adset_id": "6035318433387",
+					"campaign_id": "6035318431987",
+					"account_id": "1715234668763409"
+				}
+			],
+			"paging": {
+				"cursors": {
+					"before": "MAZDZD",
+					"after": "MAZDZD"
+				}
+			}
+		},
+		"id": "6035318435387"
+	}
+]

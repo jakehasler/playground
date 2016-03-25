@@ -1,0 +1,95 @@
+{
+  "_args": [
+    [
+      "machinepack-facebookads",
+      "/Users/jakehasler/Developer/foxtail-analytics"
+    ]
+  ],
+  "_from": "machinepack-facebookads@*",
+  "_id": "machinepack-facebookads@1.5.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/machinepack-facebookads",
+  "_nodeVersion": "0.12.0",
+  "_npmUser": {
+    "email": "treseler@gmail.com",
+    "name": "ctres"
+  },
+  "_npmVersion": "2.5.1",
+  "_phantomChildren": {
+    "convert-to-ecmascript-compatible-varname": "0.1.5",
+    "debug": "2.2.0",
+    "object-hash": "0.3.0"
+  },
+  "_requested": {
+    "name": "machinepack-facebookads",
+    "raw": "machinepack-facebookads",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "*",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/machinepack-facebookads/-/machinepack-facebookads-1.5.0.tgz",
+  "_shasum": "b44fe87d0b4bd2212f05af67485bdb7a131fc9cb",
+  "_shrinkwrap": null,
+  "_spec": "machinepack-facebookads",
+  "_where": "/Users/jakehasler/Developer/foxtail-analytics",
+  "author": "",
+  "dependencies": {
+    "country-data": "^0.0.19",
+    "machine": "^3.0.0"
+  },
+  "description": "interact with the facebook marketing api",
+  "devDependencies": {
+    "test-machinepack-mocha": "^0.2.2"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "b44fe87d0b4bd2212f05af67485bdb7a131fc9cb",
+    "tarball": "http://registry.npmjs.org/machinepack-facebookads/-/machinepack-facebookads-1.5.0.tgz"
+  },
+  "gitHead": "0ca3c44a15d5520053ff71a0291ca3eeb2b57727",
+  "keywords": [
+    "Facebook-Ads",
+    "machinepack",
+    "machines"
+  ],
+  "license": "MIT",
+  "machinepack": {
+    "friendlyName": "Facebook-Ads",
+    "machineDir": "machines/",
+    "machines": [
+      "create-ad-set",
+      "create-campaign",
+      "get-ad-account-id",
+      "get-ads",
+      "get-ad-insights",
+      "get-ad-sets-in-campaign",
+      "get-ads-in-ad-set",
+      "get-campaign-details",
+      "get-campaign-overview",
+      "get-top-ad-in-ad-set",
+      "update-ad-set"
+    ]
+  },
+  "maintainers": [
+    {
+      "name": "ctres",
+      "email": "treseler@gmail.com"
+    }
+  ],
+  "name": "machinepack-facebookads",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/https://github.com/CTres/machinepack-facebookads.git"
+  },
+  "scripts": {
+    "test": "node ./node_modules/test-machinepack-mocha/bin/testmachinepack-mocha.js"
+  },
+  "version": "1.5.0"
+}

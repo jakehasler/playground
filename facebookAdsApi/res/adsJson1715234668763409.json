@@ -1,0 +1,1573 @@
+[
+	{
+		"configured_status": "ACTIVE",
+		"name": "Insta_Tap_to_Redeem_0322",
+		"insights": {
+			"data": [
+				{
+					"date_start": "2016-03-22",
+					"date_stop": "2016-03-23",
+					"actions": [
+						{
+							"action_type": "link_click",
+							"value": 32
+						},
+						{
+							"action_type": "offsite_conversion.checkout",
+							"value": 3
+						},
+						{
+							"action_type": "post_like",
+							"value": 21
+						},
+						{
+							"action_type": "page_engagement",
+							"value": 53
+						},
+						{
+							"action_type": "post_engagement",
+							"value": 53
+						},
+						{
+							"action_type": "offsite_conversion",
+							"value": 3
+						}
+					],
+					"unique_actions": [
+						{
+							"action_type": "link_click",
+							"value": 29
+						},
+						{
+							"action_type": "offsite_conversion.checkout",
+							"value": 3
+						},
+						{
+							"action_type": "post_like",
+							"value": 21
+						},
+						{
+							"action_type": "page_engagement",
+							"value": 50
+						},
+						{
+							"action_type": "post_engagement",
+							"value": 50
+						},
+						{
+							"action_type": "offsite_conversion",
+							"value": 3
+						}
+					],
+					"total_actions": 56,
+					"total_unique_actions": 53,
+					"action_values": [
+						{
+							"action_type": "offsite_conversion.checkout",
+							"value": 560.61
+						},
+						{
+							"action_type": "offsite_conversion",
+							"value": 560.61
+						}
+					],
+					"total_action_value": 560.61,
+					"impressions": "1931",
+					"social_impressions": 0,
+					"clicks": 29,
+					"social_clicks": 0,
+					"unique_impressions": 1928,
+					"unique_social_impressions": 0,
+					"unique_clicks": 25,
+					"unique_social_clicks": 0,
+					"spend": 13.39,
+					"frequency": 1.0015560165975,
+					"deeplink_clicks": 0,
+					"app_store_clicks": 0,
+					"website_clicks": 0,
+					"cost_per_inline_post_engagement": 0.38257142857143,
+					"inline_link_clicks": 32,
+					"cost_per_inline_link_click": 0.4184375,
+					"inline_post_engagement": 35,
+					"unique_inline_link_clicks": 29,
+					"cost_per_unique_inline_link_click": 0.46172413793103,
+					"inline_link_click_ctr": 1.657172449508,
+					"unique_inline_link_click_ctr": 1.5041493775934,
+					"call_to_action_clicks": 0,
+					"reach": 1928,
+					"social_reach": 0,
+					"ctr": 1.5018125323666,
+					"unique_ctr": 1.2966804979253,
+					"unique_link_clicks_ctr": 1.5041493775934,
+					"cpc": 0.46172413793103,
+					"cpm": 6.9342309684101,
+					"cpp": 6.945020746888,
+					"cost_per_total_action": 0.23910714285714,
+					"cost_per_action_type": [
+						{
+							"action_type": "link_click",
+							"value": 0.4184375
+						},
+						{
+							"action_type": "offsite_conversion.checkout",
+							"value": 4.4633333333333
+						},
+						{
+							"action_type": "post_like",
+							"value": 0.63761904761905
+						},
+						{
+							"action_type": "page_engagement",
+							"value": 0.25264150943396
+						},
+						{
+							"action_type": "post_engagement",
+							"value": 0.25264150943396
+						},
+						{
+							"action_type": "offsite_conversion",
+							"value": 4.4633333333333
+						}
+					],
+					"cost_per_unique_click": 0.5356,
+					"cost_per_unique_action_type": [
+						{
+							"action_type": "link_click",
+							"value": 0.46172413793103
+						},
+						{
+							"action_type": "offsite_conversion.checkout",
+							"value": 4.4633333333333
+						},
+						{
+							"action_type": "post_like",
+							"value": 0.63761904761905
+						},
+						{
+							"action_type": "page_engagement",
+							"value": 0.2678
+						},
+						{
+							"action_type": "post_engagement",
+							"value": 0.2678
+						},
+						{
+							"action_type": "offsite_conversion",
+							"value": 4.4633333333333
+						}
+					],
+					"relevance_score": {
+						"score": 10,
+						"positive_feedback": "HIGH",
+						"negative_feedback": "HIGH",
+						"status": "OK"
+					},
+					"website_ctr": [
+						{
+							"action_type": "link_click",
+							"value": 1.657172449508
+						}
+					],
+					"estimated_ad_recall_rate": 0,
+					"estimated_ad_recall_rate_lower_bound": 0,
+					"estimated_ad_recall_rate_upper_bound": 0,
+					"cost_per_estimated_ad_recallers": 0,
+					"canvas_avg_view_time": 0,
+					"canvas_avg_view_percent": 0,
+					"ad_id": "6049897839786",
+					"adset_id": "6049897836986",
+					"campaign_id": "6049897834386",
+					"account_id": "1483302155239055"
+				}
+			],
+			"paging": {
+				"cursors": {
+					"before": "MAZDZD",
+					"after": "MAZDZD"
+				}
+			}
+		},
+		"id": "6049897839786"
+	},
+	{
+		"configured_status": "ACTIVE",
+		"name": "FB_Slow_Sellers_0322",
+		"id": "6049899203386"
+	},
+	{
+		"configured_status": "ACTIVE",
+		"name": "MPA-SlowSellers_0302_M",
+		"insights": {
+			"data": [
+				{
+					"date_start": "2016-03-02",
+					"date_stop": "2016-03-23",
+					"actions": [
+						{
+							"action_type": "offsite_conversion.custom.1051822244874237",
+							"value": 23
+						},
+						{
+							"action_type": "offsite_conversion.custom.1509598436001160",
+							"value": 1
+						},
+						{
+							"action_type": "offsite_conversion.custom.971432749606830",
+							"value": 4
+						},
+						{
+							"action_type": "like",
+							"value": 5
+						},
+						{
+							"action_type": "link_click",
+							"value": 75
+						},
+						{
+							"action_type": "offsite_conversion.fb_pixel_add_to_cart",
+							"value": 1
+						},
+						{
+							"action_type": "offsite_conversion.fb_pixel_add_to_wishlist",
+							"value": 23
+						},
+						{
+							"action_type": "offsite_conversion.fb_pixel_purchase",
+							"value": 4
+						},
+						{
+							"action_type": "offsite_conversion.fb_pixel_view_content",
+							"value": 3042
+						},
+						{
+							"action_type": "post_like",
+							"value": 20
+						},
+						{
+							"action_type": "page_engagement",
+							"value": 100
+						},
+						{
+							"action_type": "post_engagement",
+							"value": 95
+						},
+						{
+							"action_type": "offsite_conversion",
+							"value": 3098
+						}
+					],
+					"unique_actions": [
+						{
+							"action_type": "like",
+							"value": 5
+						},
+						{
+							"action_type": "link_click",
+							"value": 70
+						},
+						{
+							"action_type": "offsite_conversion.fb_pixel_add_to_cart",
+							"value": 1
+						},
+						{
+							"action_type": "offsite_conversion.fb_pixel_add_to_wishlist",
+							"value": 2
+						},
+						{
+							"action_type": "offsite_conversion.fb_pixel_purchase",
+							"value": 4
+						},
+						{
+							"action_type": "offsite_conversion.fb_pixel_view_content",
+							"value": 196
+						},
+						{
+							"action_type": "post_like",
+							"value": 20
+						},
+						{
+							"action_type": "page_engagement",
+							"value": 95
+						},
+						{
+							"action_type": "post_engagement",
+							"value": 90
+						},
+						{
+							"action_type": "offsite_conversion",
+							"value": 203
+						}
+					],
+					"total_actions": 3198,
+					"total_unique_actions": 298,
+					"action_values": [
+						{
+							"action_type": "offsite_conversion.custom.971432749606830",
+							"value": 753.43
+						},
+						{
+							"action_type": "offsite_conversion.fb_pixel_purchase",
+							"value": 753.43
+						},
+						{
+							"action_type": "offsite_conversion.fb_pixel_view_content",
+							"value": 216035.98
+						},
+						{
+							"action_type": "offsite_conversion",
+							"value": 217542.84
+						}
+					],
+					"total_action_value": 217542.84,
+					"impressions": "4228",
+					"social_impressions": 996,
+					"clicks": 140,
+					"social_clicks": 35,
+					"unique_impressions": 3871,
+					"unique_social_impressions": 965,
+					"unique_clicks": 109,
+					"unique_social_clicks": 29,
+					"spend": 30.09,
+					"frequency": 1.0922242314647,
+					"deeplink_clicks": 0,
+					"app_store_clicks": 0,
+					"website_clicks": 156,
+					"cost_per_inline_post_engagement": 0.31673684210526,
+					"inline_link_clicks": 75,
+					"cost_per_inline_link_click": 0.4012,
+					"inline_post_engagement": 95,
+					"unique_inline_link_clicks": 70,
+					"cost_per_unique_inline_link_click": 0.42985714285714,
+					"inline_link_click_ctr": 1.7738883632923,
+					"unique_inline_link_click_ctr": 1.8083182640145,
+					"call_to_action_clicks": 5,
+					"reach": 3871,
+					"social_reach": 965,
+					"ctr": 3.3112582781457,
+					"unique_ctr": 2.8158098682511,
+					"unique_link_clicks_ctr": 1.8083182640145,
+					"cpc": 0.21492857142857,
+					"cpm": 7.1168401135289,
+					"cpp": 7.7731852234565,
+					"cost_per_total_action": 0.0094090056285178,
+					"cost_per_action_type": [
+						{
+							"action_type": "offsite_conversion.custom.1051822244874237",
+							"value": 1.3082608695652
+						},
+						{
+							"action_type": "offsite_conversion.custom.1509598436001160",
+							"value": 30.09
+						},
+						{
+							"action_type": "offsite_conversion.custom.971432749606830",
+							"value": 7.5225
+						},
+						{
+							"action_type": "like",
+							"value": 6.018
+						},
+						{
+							"action_type": "link_click",
+							"value": 0.4012
+						},
+						{
+							"action_type": "offsite_conversion.fb_pixel_add_to_cart",
+							"value": 30.09
+						},
+						{
+							"action_type": "offsite_conversion.fb_pixel_add_to_wishlist",
+							"value": 1.3082608695652
+						},
+						{
+							"action_type": "offsite_conversion.fb_pixel_purchase",
+							"value": 7.5225
+						},
+						{
+							"action_type": "offsite_conversion.fb_pixel_view_content",
+							"value": 0.0098915187376726
+						},
+						{
+							"action_type": "post_like",
+							"value": 1.5045
+						},
+						{
+							"action_type": "page_engagement",
+							"value": 0.3009
+						},
+						{
+							"action_type": "post_engagement",
+							"value": 0.31673684210526
+						},
+						{
+							"action_type": "offsite_conversion",
+							"value": 0.0097127178825048
+						}
+					],
+					"cost_per_unique_click": 0.27605504587156,
+					"cost_per_unique_action_type": [
+						{
+							"action_type": "like",
+							"value": 6.018
+						},
+						{
+							"action_type": "link_click",
+							"value": 0.42985714285714
+						},
+						{
+							"action_type": "offsite_conversion.fb_pixel_add_to_cart",
+							"value": 30.09
+						},
+						{
+							"action_type": "offsite_conversion.fb_pixel_add_to_wishlist",
+							"value": 15.045
+						},
+						{
+							"action_type": "offsite_conversion.fb_pixel_purchase",
+							"value": 7.5225
+						},
+						{
+							"action_type": "offsite_conversion.fb_pixel_view_content",
+							"value": 0.15352040816327
+						},
+						{
+							"action_type": "post_like",
+							"value": 1.5045
+						},
+						{
+							"action_type": "page_engagement",
+							"value": 0.31673684210526
+						},
+						{
+							"action_type": "post_engagement",
+							"value": 0.33433333333333
+						},
+						{
+							"action_type": "offsite_conversion",
+							"value": 0.14822660098522
+						}
+					],
+					"relevance_score": {
+						"score": 9,
+						"positive_feedback": "HIGH",
+						"negative_feedback": "HIGH",
+						"status": "OK"
+					},
+					"website_ctr": [
+						{
+							"action_type": "link_click",
+							"value": 1.7738883632923
+						}
+					],
+					"estimated_ad_recall_rate": 0,
+					"estimated_ad_recall_rate_lower_bound": 0,
+					"estimated_ad_recall_rate_upper_bound": 0,
+					"cost_per_estimated_ad_recallers": 0,
+					"canvas_avg_view_time": 0,
+					"canvas_avg_view_percent": 0,
+					"ad_id": "6048564222786",
+					"adset_id": "6048564222186",
+					"campaign_id": "6048564221386",
+					"account_id": "1483302155239055"
+				}
+			],
+			"paging": {
+				"cursors": {
+					"before": "MAZDZD",
+					"after": "MAZDZD"
+				}
+			}
+		},
+		"id": "6048564222786"
+	},
+	{
+		"configured_status": "ACTIVE",
+		"name": "MPA-SlowSellers_0302_D",
+		"insights": {
+			"data": [
+				{
+					"date_start": "2016-03-02",
+					"date_stop": "2016-03-23",
+					"actions": [
+						{
+							"action_type": "offsite_conversion.custom.1509598436001160",
+							"value": 1
+						},
+						{
+							"action_type": "offsite_conversion.custom.971432749606830",
+							"value": 2
+						},
+						{
+							"action_type": "link_click",
+							"value": 16
+						},
+						{
+							"action_type": "offsite_conversion.checkout",
+							"value": 1
+						},
+						{
+							"action_type": "offsite_conversion.fb_pixel_add_to_cart",
+							"value": 1
+						},
+						{
+							"action_type": "offsite_conversion.fb_pixel_purchase",
+							"value": 2
+						},
+						{
+							"action_type": "offsite_conversion.fb_pixel_view_content",
+							"value": 488
+						},
+						{
+							"action_type": "post",
+							"value": 1
+						},
+						{
+							"action_type": "post_like",
+							"value": 3
+						},
+						{
+							"action_type": "page_engagement",
+							"value": 20
+						},
+						{
+							"action_type": "post_engagement",
+							"value": 20
+						},
+						{
+							"action_type": "offsite_conversion",
+							"value": 495
+						}
+					],
+					"unique_actions": [
+						{
+							"action_type": "link_click",
+							"value": 16
+						},
+						{
+							"action_type": "offsite_conversion.checkout",
+							"value": 1
+						},
+						{
+							"action_type": "offsite_conversion.fb_pixel_add_to_cart",
+							"value": 1
+						},
+						{
+							"action_type": "offsite_conversion.fb_pixel_purchase",
+							"value": 2
+						},
+						{
+							"action_type": "offsite_conversion.fb_pixel_view_content",
+							"value": 66
+						},
+						{
+							"action_type": "post",
+							"value": 1
+						},
+						{
+							"action_type": "post_like",
+							"value": 3
+						},
+						{
+							"action_type": "page_engagement",
+							"value": 20
+						},
+						{
+							"action_type": "post_engagement",
+							"value": 20
+						},
+						{
+							"action_type": "offsite_conversion",
+							"value": 70
+						}
+					],
+					"total_actions": 515,
+					"total_unique_actions": 90,
+					"action_values": [
+						{
+							"action_type": "offsite_conversion.custom.971432749606830",
+							"value": 1663.89
+						},
+						{
+							"action_type": "offsite_conversion.checkout",
+							"value": 64.86
+						},
+						{
+							"action_type": "offsite_conversion.fb_pixel_purchase",
+							"value": 1663.89
+						},
+						{
+							"action_type": "offsite_conversion.fb_pixel_view_content",
+							"value": 22393
+						},
+						{
+							"action_type": "offsite_conversion",
+							"value": 25785.64
+						}
+					],
+					"total_action_value": 25785.64,
+					"impressions": "1323",
+					"social_impressions": 299,
+					"clicks": 28,
+					"social_clicks": 7,
+					"unique_impressions": 1189,
+					"unique_social_impressions": 294,
+					"unique_clicks": 25,
+					"unique_social_clicks": 5,
+					"spend": 14.25,
+					"frequency": 1.1126997476871,
+					"deeplink_clicks": 0,
+					"app_store_clicks": 0,
+					"website_clicks": 30,
+					"cost_per_inline_post_engagement": 0.7125,
+					"inline_link_clicks": 16,
+					"cost_per_inline_link_click": 0.890625,
+					"inline_post_engagement": 20,
+					"unique_inline_link_clicks": 16,
+					"cost_per_unique_inline_link_click": 0.890625,
+					"inline_link_click_ctr": 1.2093726379441,
+					"unique_inline_link_click_ctr": 1.3456686291001,
+					"call_to_action_clicks": 0,
+					"reach": 1189,
+					"social_reach": 294,
+					"ctr": 2.1164021164021,
+					"unique_ctr": 2.1026072329689,
+					"unique_link_clicks_ctr": 1.3456686291001,
+					"cpc": 0.50892857142857,
+					"cpm": 10.770975056689,
+					"cpp": 11.984861227923,
+					"cost_per_total_action": 0.027669902912621,
+					"cost_per_action_type": [
+						{
+							"action_type": "offsite_conversion.custom.1509598436001160",
+							"value": 14.25
+						},
+						{
+							"action_type": "offsite_conversion.custom.971432749606830",
+							"value": 7.125
+						},
+						{
+							"action_type": "link_click",
+							"value": 0.890625
+						},
+						{
+							"action_type": "offsite_conversion.checkout",
+							"value": 14.25
+						},
+						{
+							"action_type": "offsite_conversion.fb_pixel_add_to_cart",
+							"value": 14.25
+						},
+						{
+							"action_type": "offsite_conversion.fb_pixel_purchase",
+							"value": 7.125
+						},
+						{
+							"action_type": "offsite_conversion.fb_pixel_view_content",
+							"value": 0.029200819672131
+						},
+						{
+							"action_type": "post",
+							"value": 14.25
+						},
+						{
+							"action_type": "post_like",
+							"value": 4.75
+						},
+						{
+							"action_type": "page_engagement",
+							"value": 0.7125
+						},
+						{
+							"action_type": "post_engagement",
+							"value": 0.7125
+						},
+						{
+							"action_type": "offsite_conversion",
+							"value": 0.028787878787879
+						}
+					],
+					"cost_per_unique_click": 0.57,
+					"cost_per_unique_action_type": [
+						{
+							"action_type": "link_click",
+							"value": 0.890625
+						},
+						{
+							"action_type": "offsite_conversion.checkout",
+							"value": 14.25
+						},
+						{
+							"action_type": "offsite_conversion.fb_pixel_add_to_cart",
+							"value": 14.25
+						},
+						{
+							"action_type": "offsite_conversion.fb_pixel_purchase",
+							"value": 7.125
+						},
+						{
+							"action_type": "offsite_conversion.fb_pixel_view_content",
+							"value": 0.21590909090909
+						},
+						{
+							"action_type": "post",
+							"value": 14.25
+						},
+						{
+							"action_type": "post_like",
+							"value": 4.75
+						},
+						{
+							"action_type": "page_engagement",
+							"value": 0.7125
+						},
+						{
+							"action_type": "post_engagement",
+							"value": 0.7125
+						},
+						{
+							"action_type": "offsite_conversion",
+							"value": 0.20357142857143
+						}
+					],
+					"relevance_score": {
+						"score": 8,
+						"positive_feedback": "HIGH",
+						"negative_feedback": "LOW",
+						"status": "OK"
+					},
+					"website_ctr": [
+						{
+							"action_type": "link_click",
+							"value": 1.2093726379441
+						}
+					],
+					"estimated_ad_recall_rate": 0,
+					"estimated_ad_recall_rate_lower_bound": 0,
+					"estimated_ad_recall_rate_upper_bound": 0,
+					"cost_per_estimated_ad_recallers": 0,
+					"canvas_avg_view_time": 0,
+					"canvas_avg_view_percent": 0,
+					"ad_id": "6048550366186",
+					"adset_id": "6048550365386",
+					"campaign_id": "6048550364186",
+					"account_id": "1483302155239055"
+				}
+			],
+			"paging": {
+				"cursors": {
+					"before": "MAZDZD",
+					"after": "MAZDZD"
+				}
+			}
+		},
+		"id": "6048550366186"
+	},
+	{
+		"configured_status": "ACTIVE",
+		"name": "AshleyPicks_2016_M",
+		"insights": {
+			"data": [
+				{
+					"date_start": "2016-01-03",
+					"date_stop": "2016-03-23",
+					"actions": [
+						{
+							"action_type": "link_click",
+							"value": 11
+						},
+						{
+							"action_type": "offsite_conversion.checkout",
+							"value": 3
+						},
+						{
+							"action_type": "post_like",
+							"value": 16
+						},
+						{
+							"action_type": "page_engagement",
+							"value": 27
+						},
+						{
+							"action_type": "post_engagement",
+							"value": 27
+						},
+						{
+							"action_type": "offsite_conversion",
+							"value": 3
+						}
+					],
+					"unique_actions": [
+						{
+							"action_type": "link_click",
+							"value": 10
+						},
+						{
+							"action_type": "offsite_conversion.checkout",
+							"value": 2
+						},
+						{
+							"action_type": "post_like",
+							"value": 15
+						},
+						{
+							"action_type": "page_engagement",
+							"value": 25
+						},
+						{
+							"action_type": "post_engagement",
+							"value": 25
+						},
+						{
+							"action_type": "offsite_conversion",
+							"value": 2
+						}
+					],
+					"total_actions": 30,
+					"total_unique_actions": 27,
+					"action_values": [
+						{
+							"action_type": "offsite_conversion.checkout",
+							"value": 500.82
+						},
+						{
+							"action_type": "offsite_conversion",
+							"value": 500.82
+						}
+					],
+					"total_action_value": 500.82,
+					"impressions": "1276",
+					"social_impressions": 219,
+					"clicks": 35,
+					"social_clicks": 3,
+					"unique_impressions": 907,
+					"unique_social_impressions": 183,
+					"unique_clicks": 23,
+					"unique_social_clicks": 3,
+					"spend": 2.4,
+					"frequency": 1.406835722161,
+					"deeplink_clicks": 0,
+					"app_store_clicks": 0,
+					"website_clicks": 41,
+					"cost_per_inline_post_engagement": 0.092307692307692,
+					"inline_link_clicks": 11,
+					"cost_per_inline_link_click": 0.21818181818182,
+					"inline_post_engagement": 26,
+					"unique_inline_link_clicks": 10,
+					"cost_per_unique_inline_link_click": 0.24,
+					"inline_link_click_ctr": 0.86206896551724,
+					"unique_inline_link_click_ctr": 1.1025358324146,
+					"call_to_action_clicks": 2,
+					"reach": 907,
+					"social_reach": 183,
+					"ctr": 2.742946708464,
+					"unique_ctr": 2.5358324145535,
+					"unique_link_clicks_ctr": 1.1025358324146,
+					"cpc": 0.068571428571429,
+					"cpm": 1.8808777429467,
+					"cpp": 2.6460859977949,
+					"cost_per_total_action": 0.08,
+					"cost_per_action_type": [
+						{
+							"action_type": "link_click",
+							"value": 0.21818181818182
+						},
+						{
+							"action_type": "offsite_conversion.checkout",
+							"value": 0.8
+						},
+						{
+							"action_type": "post_like",
+							"value": 0.15
+						},
+						{
+							"action_type": "page_engagement",
+							"value": 0.088888888888889
+						},
+						{
+							"action_type": "post_engagement",
+							"value": 0.088888888888889
+						},
+						{
+							"action_type": "offsite_conversion",
+							"value": 0.8
+						}
+					],
+					"cost_per_unique_click": 0.10434782608696,
+					"cost_per_unique_action_type": [
+						{
+							"action_type": "link_click",
+							"value": 0.24
+						},
+						{
+							"action_type": "offsite_conversion.checkout",
+							"value": 1.2
+						},
+						{
+							"action_type": "post_like",
+							"value": 0.16
+						},
+						{
+							"action_type": "page_engagement",
+							"value": 0.096
+						},
+						{
+							"action_type": "post_engagement",
+							"value": 0.096
+						},
+						{
+							"action_type": "offsite_conversion",
+							"value": 1.2
+						}
+					],
+					"relevance_score": {
+						"score": 8,
+						"positive_feedback": "HIGH",
+						"negative_feedback": "HIGH",
+						"status": "OK"
+					},
+					"website_ctr": [
+						{
+							"action_type": "link_click",
+							"value": 0.86206896551724
+						}
+					],
+					"estimated_ad_recall_rate": 0,
+					"estimated_ad_recall_rate_lower_bound": 0,
+					"estimated_ad_recall_rate_upper_bound": 0,
+					"cost_per_estimated_ad_recallers": 0,
+					"canvas_avg_view_time": 0,
+					"canvas_avg_view_percent": 0,
+					"ad_id": "6045513832986",
+					"adset_id": "6043622884386",
+					"campaign_id": "6043622881586",
+					"account_id": "1483302155239055"
+				}
+			],
+			"paging": {
+				"cursors": {
+					"before": "MAZDZD",
+					"after": "MAZDZD"
+				}
+			}
+		},
+		"id": "6045513832986"
+	},
+	{
+		"configured_status": "ACTIVE",
+		"name": "BackinStock_M",
+		"insights": {
+			"data": [
+				{
+					"date_start": "2016-01-03",
+					"date_stop": "2016-03-23",
+					"actions": [
+						{
+							"action_type": "like",
+							"value": 2
+						},
+						{
+							"action_type": "link_click",
+							"value": 17
+						},
+						{
+							"action_type": "offsite_conversion.checkout",
+							"value": 6
+						},
+						{
+							"action_type": "post_like",
+							"value": 15
+						},
+						{
+							"action_type": "page_engagement",
+							"value": 34
+						},
+						{
+							"action_type": "post_engagement",
+							"value": 32
+						},
+						{
+							"action_type": "offsite_conversion",
+							"value": 6
+						}
+					],
+					"unique_actions": [
+						{
+							"action_type": "like",
+							"value": 2
+						},
+						{
+							"action_type": "link_click",
+							"value": 17
+						},
+						{
+							"action_type": "offsite_conversion.checkout",
+							"value": 5
+						},
+						{
+							"action_type": "post_like",
+							"value": 13
+						},
+						{
+							"action_type": "page_engagement",
+							"value": 32
+						},
+						{
+							"action_type": "post_engagement",
+							"value": 30
+						},
+						{
+							"action_type": "offsite_conversion",
+							"value": 5
+						}
+					],
+					"total_actions": 40,
+					"total_unique_actions": 37,
+					"action_values": [
+						{
+							"action_type": "offsite_conversion.checkout",
+							"value": 1753.95
+						},
+						{
+							"action_type": "offsite_conversion",
+							"value": 1753.95
+						}
+					],
+					"total_action_value": 1753.95,
+					"impressions": "1686",
+					"social_impressions": 264,
+					"clicks": 43,
+					"social_clicks": 7,
+					"unique_impressions": 1249,
+					"unique_social_impressions": 240,
+					"unique_clicks": 34,
+					"unique_social_clicks": 6,
+					"spend": 4.3,
+					"frequency": 1.3498799039231,
+					"deeplink_clicks": 0,
+					"app_store_clicks": 0,
+					"website_clicks": 46,
+					"cost_per_inline_post_engagement": 0.134375,
+					"inline_link_clicks": 17,
+					"cost_per_inline_link_click": 0.25294117647059,
+					"inline_post_engagement": 32,
+					"unique_inline_link_clicks": 17,
+					"cost_per_unique_inline_link_click": 0.25294117647059,
+					"inline_link_click_ctr": 1.0083036773428,
+					"unique_inline_link_click_ctr": 1.3610888710969,
+					"call_to_action_clicks": 3,
+					"reach": 1249,
+					"social_reach": 240,
+					"ctr": 2.5504151838671,
+					"unique_ctr": 2.7221777421938,
+					"unique_link_clicks_ctr": 1.3610888710969,
+					"cpc": 0.1,
+					"cpm": 2.5504151838671,
+					"cpp": 3.4427542033627,
+					"cost_per_total_action": 0.1075,
+					"cost_per_action_type": [
+						{
+							"action_type": "like",
+							"value": 2.15
+						},
+						{
+							"action_type": "link_click",
+							"value": 0.25294117647059
+						},
+						{
+							"action_type": "offsite_conversion.checkout",
+							"value": 0.71666666666667
+						},
+						{
+							"action_type": "post_like",
+							"value": 0.28666666666667
+						},
+						{
+							"action_type": "page_engagement",
+							"value": 0.12647058823529
+						},
+						{
+							"action_type": "post_engagement",
+							"value": 0.134375
+						},
+						{
+							"action_type": "offsite_conversion",
+							"value": 0.71666666666667
+						}
+					],
+					"cost_per_unique_click": 0.12647058823529,
+					"cost_per_unique_action_type": [
+						{
+							"action_type": "like",
+							"value": 2.15
+						},
+						{
+							"action_type": "link_click",
+							"value": 0.25294117647059
+						},
+						{
+							"action_type": "offsite_conversion.checkout",
+							"value": 0.86
+						},
+						{
+							"action_type": "post_like",
+							"value": 0.33076923076923
+						},
+						{
+							"action_type": "page_engagement",
+							"value": 0.134375
+						},
+						{
+							"action_type": "post_engagement",
+							"value": 0.14333333333333
+						},
+						{
+							"action_type": "offsite_conversion",
+							"value": 0.86
+						}
+					],
+					"relevance_score": {
+						"score": 8,
+						"positive_feedback": "HIGH",
+						"negative_feedback": "MEDIUM",
+						"status": "OK"
+					},
+					"website_ctr": [
+						{
+							"action_type": "link_click",
+							"value": 1.0083036773428
+						}
+					],
+					"estimated_ad_recall_rate": 0,
+					"estimated_ad_recall_rate_lower_bound": 0,
+					"estimated_ad_recall_rate_upper_bound": 0,
+					"cost_per_estimated_ad_recallers": 0,
+					"canvas_avg_view_time": 0,
+					"canvas_avg_view_percent": 0,
+					"ad_id": "6045513822186",
+					"adset_id": "6043622884386",
+					"campaign_id": "6043622881586",
+					"account_id": "1483302155239055"
+				}
+			],
+			"paging": {
+				"cursors": {
+					"before": "MAZDZD",
+					"after": "MAZDZD"
+				}
+			}
+		},
+		"id": "6045513822186"
+	},
+	{
+		"configured_status": "ACTIVE",
+		"name": "AshleyPicks_2016_D",
+		"insights": {
+			"data": [
+				{
+					"date_start": "2016-01-03",
+					"date_stop": "2016-03-23",
+					"actions": [
+						{
+							"action_type": "like",
+							"value": 1
+						},
+						{
+							"action_type": "link_click",
+							"value": 33
+						},
+						{
+							"action_type": "offsite_conversion.checkout",
+							"value": 6
+						},
+						{
+							"action_type": "post_like",
+							"value": 5
+						},
+						{
+							"action_type": "page_engagement",
+							"value": 39
+						},
+						{
+							"action_type": "post_engagement",
+							"value": 38
+						},
+						{
+							"action_type": "offsite_conversion",
+							"value": 6
+						}
+					],
+					"unique_actions": [
+						{
+							"action_type": "like",
+							"value": 1
+						},
+						{
+							"action_type": "link_click",
+							"value": 32
+						},
+						{
+							"action_type": "offsite_conversion.checkout",
+							"value": 6
+						},
+						{
+							"action_type": "post_like",
+							"value": 5
+						},
+						{
+							"action_type": "page_engagement",
+							"value": 38
+						},
+						{
+							"action_type": "post_engagement",
+							"value": 37
+						},
+						{
+							"action_type": "offsite_conversion",
+							"value": 6
+						}
+					],
+					"total_actions": 45,
+					"total_unique_actions": 44,
+					"action_values": [
+						{
+							"action_type": "offsite_conversion.checkout",
+							"value": 1263.27
+						},
+						{
+							"action_type": "offsite_conversion",
+							"value": 1263.27
+						}
+					],
+					"total_action_value": 1263.27,
+					"impressions": "2491",
+					"social_impressions": 869,
+					"clicks": 52,
+					"social_clicks": 13,
+					"unique_impressions": 1949,
+					"unique_social_impressions": 741,
+					"unique_clicks": 47,
+					"unique_social_clicks": 12,
+					"spend": 14.15,
+					"frequency": 1.2780913288866,
+					"deeplink_clicks": 0,
+					"app_store_clicks": 0,
+					"website_clicks": 53,
+					"cost_per_inline_post_engagement": 0.37236842105263,
+					"inline_link_clicks": 33,
+					"cost_per_inline_link_click": 0.42878787878788,
+					"inline_post_engagement": 38,
+					"unique_inline_link_clicks": 32,
+					"cost_per_unique_inline_link_click": 0.4421875,
+					"inline_link_click_ctr": 1.3247691690084,
+					"unique_inline_link_click_ctr": 1.6418676244228,
+					"call_to_action_clicks": 2,
+					"reach": 1949,
+					"social_reach": 741,
+					"ctr": 2.0875150541951,
+					"unique_ctr": 2.411493073371,
+					"unique_link_clicks_ctr": 1.6418676244228,
+					"cpc": 0.27211538461538,
+					"cpm": 5.6804496186271,
+					"cpp": 7.2601334017445,
+					"cost_per_total_action": 0.31444444444444,
+					"cost_per_action_type": [
+						{
+							"action_type": "like",
+							"value": 14.15
+						},
+						{
+							"action_type": "link_click",
+							"value": 0.42878787878788
+						},
+						{
+							"action_type": "offsite_conversion.checkout",
+							"value": 2.3583333333333
+						},
+						{
+							"action_type": "post_like",
+							"value": 2.83
+						},
+						{
+							"action_type": "page_engagement",
+							"value": 0.36282051282051
+						},
+						{
+							"action_type": "post_engagement",
+							"value": 0.37236842105263
+						},
+						{
+							"action_type": "offsite_conversion",
+							"value": 2.3583333333333
+						}
+					],
+					"cost_per_unique_click": 0.30106382978723,
+					"cost_per_unique_action_type": [
+						{
+							"action_type": "like",
+							"value": 14.15
+						},
+						{
+							"action_type": "link_click",
+							"value": 0.4421875
+						},
+						{
+							"action_type": "offsite_conversion.checkout",
+							"value": 2.3583333333333
+						},
+						{
+							"action_type": "post_like",
+							"value": 2.83
+						},
+						{
+							"action_type": "page_engagement",
+							"value": 0.37236842105263
+						},
+						{
+							"action_type": "post_engagement",
+							"value": 0.38243243243243
+						},
+						{
+							"action_type": "offsite_conversion",
+							"value": 2.3583333333333
+						}
+					],
+					"relevance_score": {
+						"score": 9,
+						"positive_feedback": "HIGH",
+						"negative_feedback": "LOW",
+						"status": "OK"
+					},
+					"website_ctr": [
+						{
+							"action_type": "link_click",
+							"value": 1.3247691690084
+						}
+					],
+					"estimated_ad_recall_rate": 0,
+					"estimated_ad_recall_rate_lower_bound": 0,
+					"estimated_ad_recall_rate_upper_bound": 0,
+					"cost_per_estimated_ad_recallers": 0,
+					"canvas_avg_view_time": 0,
+					"canvas_avg_view_percent": 0,
+					"ad_id": "6045513824386",
+					"adset_id": "6043622883586",
+					"campaign_id": "6043622881786",
+					"account_id": "1483302155239055"
+				}
+			],
+			"paging": {
+				"cursors": {
+					"before": "MAZDZD",
+					"after": "MAZDZD"
+				}
+			}
+		},
+		"id": "6045513824386"
+	},
+	{
+		"configured_status": "ACTIVE",
+		"name": "BackinStock_D",
+		"insights": {
+			"data": [
+				{
+					"date_start": "2016-01-03",
+					"date_stop": "2016-03-23",
+					"actions": [
+						{
+							"action_type": "like",
+							"value": 8
+						},
+						{
+							"action_type": "link_click",
+							"value": 59
+						},
+						{
+							"action_type": "offsite_conversion.checkout",
+							"value": 19
+						},
+						{
+							"action_type": "post_like",
+							"value": 3
+						},
+						{
+							"action_type": "page_engagement",
+							"value": 70
+						},
+						{
+							"action_type": "post_engagement",
+							"value": 62
+						},
+						{
+							"action_type": "offsite_conversion",
+							"value": 19
+						}
+					],
+					"unique_actions": [
+						{
+							"action_type": "like",
+							"value": 8
+						},
+						{
+							"action_type": "link_click",
+							"value": 53
+						},
+						{
+							"action_type": "offsite_conversion.checkout",
+							"value": 17
+						},
+						{
+							"action_type": "post_like",
+							"value": 3
+						},
+						{
+							"action_type": "page_engagement",
+							"value": 64
+						},
+						{
+							"action_type": "post_engagement",
+							"value": 56
+						},
+						{
+							"action_type": "offsite_conversion",
+							"value": 17
+						}
+					],
+					"total_actions": 89,
+					"total_unique_actions": 81,
+					"action_values": [
+						{
+							"action_type": "offsite_conversion.checkout",
+							"value": 3043.37
+						},
+						{
+							"action_type": "offsite_conversion",
+							"value": 3043.37
+						}
+					],
+					"total_action_value": 3043.37,
+					"impressions": "5553",
+					"social_impressions": 2468,
+					"clicks": 98,
+					"social_clicks": 43,
+					"unique_impressions": 4526,
+					"unique_social_impressions": 2165,
+					"unique_clicks": 83,
+					"unique_social_clicks": 36,
+					"spend": 44.26,
+					"frequency": 1.2269111798498,
+					"deeplink_clicks": 0,
+					"app_store_clicks": 0,
+					"website_clicks": 102,
+					"cost_per_inline_post_engagement": 0.71387096774194,
+					"inline_link_clicks": 59,
+					"cost_per_inline_link_click": 0.75016949152542,
+					"inline_post_engagement": 62,
+					"unique_inline_link_clicks": 53,
+					"cost_per_unique_inline_link_click": 0.83509433962264,
+					"inline_link_click_ctr": 1.0624887448226,
+					"unique_inline_link_click_ctr": 1.171011931065,
+					"call_to_action_clicks": 2,
+					"reach": 4526,
+					"social_reach": 2165,
+					"ctr": 1.7648118134342,
+					"unique_ctr": 1.8338488731772,
+					"unique_link_clicks_ctr": 1.171011931065,
+					"cpc": 0.45163265306122,
+					"cpm": 7.9704664145507,
+					"cpp": 9.7790543526293,
+					"cost_per_total_action": 0.49730337078652,
+					"cost_per_action_type": [
+						{
+							"action_type": "like",
+							"value": 5.5325
+						},
+						{
+							"action_type": "link_click",
+							"value": 0.75016949152542
+						},
+						{
+							"action_type": "offsite_conversion.checkout",
+							"value": 2.3294736842105
+						},
+						{
+							"action_type": "post_like",
+							"value": 14.753333333333
+						},
+						{
+							"action_type": "page_engagement",
+							"value": 0.63228571428571
+						},
+						{
+							"action_type": "post_engagement",
+							"value": 0.71387096774194
+						},
+						{
+							"action_type": "offsite_conversion",
+							"value": 2.3294736842105
+						}
+					],
+					"cost_per_unique_click": 0.53325301204819,
+					"cost_per_unique_action_type": [
+						{
+							"action_type": "like",
+							"value": 5.5325
+						},
+						{
+							"action_type": "link_click",
+							"value": 0.83509433962264
+						},
+						{
+							"action_type": "offsite_conversion.checkout",
+							"value": 2.6035294117647
+						},
+						{
+							"action_type": "post_like",
+							"value": 14.753333333333
+						},
+						{
+							"action_type": "page_engagement",
+							"value": 0.6915625
+						},
+						{
+							"action_type": "post_engagement",
+							"value": 0.79035714285714
+						},
+						{
+							"action_type": "offsite_conversion",
+							"value": 2.6035294117647
+						}
+					],
+					"relevance_score": {
+						"score": 9,
+						"positive_feedback": "HIGH",
+						"negative_feedback": "LOW",
+						"status": "OK"
+					},
+					"website_ctr": [
+						{
+							"action_type": "link_click",
+							"value": 1.0624887448226
+						}
+					],
+					"estimated_ad_recall_rate": 0,
+					"estimated_ad_recall_rate_lower_bound": 0,
+					"estimated_ad_recall_rate_upper_bound": 0,
+					"cost_per_estimated_ad_recallers": 0,
+					"canvas_avg_view_time": 0,
+					"canvas_avg_view_percent": 0,
+					"ad_id": "6045513814386",
+					"adset_id": "6043622883586",
+					"campaign_id": "6043622881786",
+					"account_id": "1483302155239055"
+				}
+			],
+			"paging": {
+				"cursors": {
+					"before": "MAZDZD",
+					"after": "MAZDZD"
+				}
+			}
+		},
+		"id": "6045513814386"
+	}
+]

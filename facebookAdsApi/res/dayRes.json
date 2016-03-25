@@ -1,0 +1,154 @@
+{
+    "_id" : ObjectId("56d876fe88e464eb39aadf38"),
+    "date" : ISODate("2016-03-02T10:40:14.071Z"),
+    "googleData" : {
+        "organic" : {
+            "kind" : "analytics#gaData",
+            "totalResults" : 9,
+            "rows" : [
+                {
+                    "newUsers" : 2,
+                    "bounces" : 3,
+                    "pageviews" : 7,
+                    "sessionDuration" : 35,
+                    "sessions" : 5,
+                    "sourceMedium" : "bing / organic"
+                },
+                {
+                    "newUsers" : 1,
+                    "bounces" : 0,
+                    "pageviews" : 10,
+                    "sessionDuration" : 94,
+                    "sessions" : 1,
+                    "sourceMedium" : "cox.com / referral"
+                },
+                {
+                    "newUsers" : 1,
+                    "bounces" : 0,
+                    "pageviews" : 5,
+                    "sessionDuration" : 27,
+                    "sessions" : 1,
+                    "sourceMedium" : "duckduckgo.com / referral"
+                },
+                {
+                    "newUsers" : 23,
+                    "bounces" : 22,
+                    "pageviews" : 99,
+                    "sessionDuration" : 10558,
+                    "sessions" : 39,
+                    "sourceMedium" : "google / organic"
+                },
+                {
+                    "newUsers" : 1,
+                    "bounces" : 1,
+                    "pageviews" : 1,
+                    "sessionDuration" : 0,
+                    "sessions" : 1,
+                    "sourceMedium" : "lm.facebook.com / referral"
+                },
+                {
+                    "newUsers" : 1,
+                    "bounces" : 1,
+                    "pageviews" : 1,
+                    "sessionDuration" : 0,
+                    "sessions" : 1,
+                    "sourceMedium" : "nationaldefensemegadirectory.com / referral"
+                },
+                {
+                    "newUsers" : 1,
+                    "bounces" : 0,
+                    "pageviews" : 2,
+                    "sessionDuration" : 90,
+                    "sessions" : 1,
+                    "sourceMedium" : "rfidconnect.com / referral"
+                },
+                {
+                    "newUsers" : 1,
+                    "bounces" : 0,
+                    "pageviews" : 2,
+                    "sessionDuration" : 61,
+                    "sessions" : 1,
+                    "sourceMedium" : "serchen.com / referral"
+                },
+                {
+                    "newUsers" : 0,
+                    "bounces" : 1,
+                    "pageviews" : 1,
+                    "sessionDuration" : 0,
+                    "sessions" : 1,
+                    "sourceMedium" : "uidsolutions.com / referral"
+                }
+            ],
+            "totalsForAllResults" : {
+                "ga:sessions" : 51,
+                "ga:sessionDuration" : 10865,
+                "ga:pageviews" : 128,
+                "ga:bounces" : 28,
+                "ga:newUsers" : 31
+            },
+            "profileInfo" : {
+                "profileId" : "99102084",
+                "accountId" : "5322971",
+                "webPropertyId" : "UA-5322971-1",
+                "internalWebPropertyId" : "10271801",
+                "profileName" : "FoxTailMarketing",
+                "tableId" : "ga:99102084"
+            }
+        },
+        "paid" : {
+            "kind" : "analytics#gaData",
+            "totalResults" : 4,
+            "rows" : [
+                {
+                    "newUsers" : 14,
+                    "bounces" : 10,
+                    "pageviews" : 31,
+                    "sessionDuration" : 1727,
+                    "sessions" : 18,
+                    "sourceMedium" : "(direct) / (none)"
+                },
+                {
+                    "newUsers" : 0,
+                    "bounces" : 0,
+                    "pageviews" : 4,
+                    "sessionDuration" : 170,
+                    "sessions" : 1,
+                    "sourceMedium" : "act-on software / landing page"
+                },
+                {
+                    "newUsers" : 10,
+                    "bounces" : 9,
+                    "pageviews" : 11,
+                    "sessionDuration" : 33,
+                    "sessions" : 10,
+                    "sourceMedium" : "bing / cpc"
+                },
+                {
+                    "newUsers" : 21,
+                    "bounces" : 20,
+                    "pageviews" : 44,
+                    "sessionDuration" : 1207,
+                    "sessions" : 25,
+                    "sourceMedium" : "google / cpc"
+                }
+            ],
+            "totalsForAllResults" : {
+                "ga:sessions" : 54,
+                "ga:sessionDuration" : 3137,
+                "ga:pageviews" : 90,
+                "ga:bounces" : 39,
+                "ga:newUsers" : 45
+            },
+            "profileInfo" : {
+                "profileId" : "99102084",
+                "accountId" : "5322971",
+                "webPropertyId" : "UA-5322971-1",
+                "internalWebPropertyId" : "10271801",
+                "profileName" : "FoxTailMarketing",
+                "tableId" : "ga:99102084"
+            }
+        }
+    },
+    "__v" : 0,
+    "stringDate" : "3/2/2016"
+}
