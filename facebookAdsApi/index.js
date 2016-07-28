@@ -27,8 +27,8 @@ var bar = new ProgressBar('Processing [:bar] :percent :etas', {
 var insightsTest = function(userId) {
 	//console.log("Getting for UserID: " + userId);
 	FacebookAds.getAdInsights({
-	adAccountId: 'act_' + userId,
-	accessToken: SIXTY_DAY_TOKEN,
+		adAccountId: 'act_' + userId,
+		accessToken: SIXTY_DAY_TOKEN,
 	}).exec({
 		// An unexpected error occurred.
 		error: function (err){

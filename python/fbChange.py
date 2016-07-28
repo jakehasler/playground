@@ -24,6 +24,16 @@ driver.find_element_by_xpath('//*[@href="/apps/1640288612910911/"]').click()
 print driver.current_url
 driver.get("https://developers.facebook.com/apps/1640288612910911/settings/advanced/")
 time.sleep(1)
-driver.find_element_by_xpath('//*[@class="_4jy0 _4jy3 _517h _51sy _42ft"]').click()
+driver.find_element_by_xpath('//button[text()="Ads API"]').click()
+time.sleep(2)
+inputBox = driver.find_element_by_xpath('//*[@placeholder="Account ID"]')
+print inputBox
+# *** Adding Accounts Correctly - 
+# TODO: Need to loop through active and valid accounts -
+inputBox.send_keys('1545103032482058')
+driver.find_element_by_xpath('//button[text()="Add"]').click()
+# driver.find_element_by_class_name('_58al').send_keys('10153181724836957')
+time.sleep(5)
+
 
 driver.quit()
